@@ -1,4 +1,4 @@
-👋 Hi there! I'm Esther, a data analyst.
+👋 Hi there! I'm Esther, a Data Analyst.
 
 🔍 I specialize in using data to uncover insights and make informed business decisions. With expertise in Excel, SQL, Power BI, and Python, I'm passionate about turning raw data into actionable intelligence.
 
