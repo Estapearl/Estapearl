@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Hi there! I'm Esther, a data analyst.
 
-<!--
-**Estapearl/Estapearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I specialize in using data to uncover insights and make informed business decisions. With expertise in Excel, SQL, Power BI, and Python, I'm passionate about turning raw data into actionable intelligence.
 
-Here are some ideas to get you started:
+📊 I'm skilled in creating compelling visualizations and reports that clearly communicate complex data sets to stakeholders. I'm also proficient in SQL and Excel, allowing me to extract and manipulate data with ease.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 I use Python and its powerful libraries such as Pandas, Matplotlib, Seaborn, and Plotly to clean, analyze, and visualize data. With Python, I'm able to quickly and efficiently perform data wrangling tasks, create custom visualizations, and build machine learning models.
+
+
+📈 I'm always learning and staying up-to-date on the latest trends and tools in the industry. I'm also committed to collaborating with cross-functional teams to drive successful outcomes.
+
+📝 In my free time, I enjoy watching TV Shows, and am always looking for ways to apply data analytics to my personal interests.
+
+Thanks for visiting my profile! Don't hesitate to reach out if you have any questions or would like to collaborate.
